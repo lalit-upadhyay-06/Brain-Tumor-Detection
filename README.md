@@ -2,7 +2,6 @@ Project Title : Brain Tumor Detection Using Honey Bee
 Submitted by: Lalit Kumar Upadhyay
 Folders :
 Complete executable code of the project.
-Project report document
 Final project presentation PPT
 
 Source code execution:
